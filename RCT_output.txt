@@ -1,0 +1,5 @@
+C:\Anaconda\python.exe C:/Pywork/RCT_randomization/RCT_randomization.py
+Number of patients to receive tPA only (control group):  235
+Number of patients to receive tPA and endovascular treatment (experimental arm):  265
+
+Process finished with exit code 0
